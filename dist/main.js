@@ -1,0 +1,1 @@
+document.querySelector("#content").innerHTML='\n<div id="content">Successfully loaded.</div>\n';
